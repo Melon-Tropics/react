@@ -3,20 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^1.0.11"
+    "react-scripts": "3.3.0"
   },
   "dependencies": {
     "@babel/standalone": "^7.0.0",
     "art": "^0.10.3",
     "classnames": "^2.2.5",
     "codemirror": "^5.40.0",
-    "core-js": "^2.4.1",
+    "core-js": "^3.6.4",
     "jest-diff": "^24.8.0",
     "prop-types": "^15.6.0",
-    "query-string": "^4.2.3",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "semver": "^5.5.0"
+    "query-string": "^6.10.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "semver": "^7.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
