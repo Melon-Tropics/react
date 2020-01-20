@@ -13,7 +13,7 @@
   "dependencies": {
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.2",
-    "regenerator-runtime": "^0.11.0",
+    "regenerator-runtime": "^0.13.3",
     "react-reconciler": "*",
     "react-stream": "*"
   },
